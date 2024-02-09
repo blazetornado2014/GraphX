@@ -1,2 +1,2 @@
 # GraphX
- Graphics Engine
+ Graphics Engine Fundamentals
